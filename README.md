@@ -1,2 +1,0 @@
-# irctc
-Transportation project
